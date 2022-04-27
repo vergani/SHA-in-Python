@@ -7,6 +7,7 @@ Funções:
     encode() : convert a string desejada em bytes aceitáveis pela função hash;
     hexdigest() : retorna o código encodado em formato hexadecimal legível.
     
+![sha](https://user-images.githubusercontent.com/35334365/165557271-7d53963d-1b61-4729-b64f-1bef2318568a.png)
 
 
     
